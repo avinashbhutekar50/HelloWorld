@@ -13,3 +13,5 @@ def divide(x,y):
 	return DIVIDEBYZERO
     else:
 	return x/y
+def square(x)
+	pass
