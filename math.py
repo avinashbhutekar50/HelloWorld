@@ -4,9 +4,9 @@ def add(x,y):
 # sub implementation
 def subtract(x,y):
     pass
-# mul implementation
+# multiply local implementation
 def multiply(x,y):
     pass
-# div implementation
+# divide implementation
 def divide(x,y):
     pass
